@@ -1,4 +1,5 @@
 ## Hi there 👋
+Try the free version of FuturDream
 
 <!--
 **FuturDream/FuturDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
